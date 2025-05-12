@@ -31,7 +31,7 @@ function toggleMobileMenu() {
 
 const textContent = [
     {
-        title: `Hi👋 I'm <span class="highlighted-text">Muhammad Usman</span><span class="prsn-occupation">, a Web Developer</span>`,
+        title: `Hi👋 I'm <span class="highlighted-text">Malik Awais</span><span class="prsn-occupation">, a Web Developer</span>`,
         description: "I build professional & modern websites using the latest technologies."
     },
     {
